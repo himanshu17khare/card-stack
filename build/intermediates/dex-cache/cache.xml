@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/himanshu/.android/build-cache/1110e786eccf2e257e05340e37a3c8b3fc940ff8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.0"
+        sha1="de467de1baba33a922246561f87c0a910206d1ff">
+        <dex dex="/home/himanshu/Desktop/AndroidProjects/CardStack-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5dda6d7bc984379cd4fa3261de3065f0661abe90/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/himanshu/.android/build-cache/e6e2e507c4bd4299823636eb6777790e0cb1d29a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.0"
+        sha1="925ec89d545e33030131b9470db85e701a8c61a4">
+        <dex dex="/home/himanshu/Desktop/AndroidProjects/CardStack-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_27918d6095af7354b2f017f343649f629110b59b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/himanshu/.android/build-cache/71de76a28932d675286d82222289b27132f6eabc/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.0"
+        sha1="afb9ac89f722ac83466f1bb5f2135010b7f05f32">
+        <dex dex="/home/himanshu/Desktop/AndroidProjects/CardStack-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c2d045dc03b4952ebf83e01c65641414be263680/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/himanshu/.android/build-cache/0f74fa290f3bd535f04b4a70e3b234b1b67244fe/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.0"
+        sha1="ddfc0d219f43bf3c1e357a55284cbd1000e461bf">
+        <dex dex="/home/himanshu/Desktop/AndroidProjects/CardStack-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_cb45f3b71862d6264392c7bc6f2f8f3d2063e37c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/himanshu/Downloads/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.0-alpha9/constraint-layout-solver-1.0.0-alpha9.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.0"
+        sha1="6a908fd0803cc5f65b007101002aec06dc7544da">
+        <dex dex="/home/himanshu/Desktop/AndroidProjects/CardStack-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.0-alpha9_904a897931c3b3bf35a298e77092af85ed6aeff6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/himanshu/.gradle/caches/modules-2/files-2.1/com.android.support/collections/28.0.0/c1bcdade4d3cc2836130424a3f3e4182c666a745/collections-28.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.0"
+        sha1="c1bcdade4d3cc2836130424a3f3e4182c666a745">
+        <dex dex="/home/himanshu/Desktop/AndroidProjects/CardStack-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/collections-28.0.0_cf742abbc9420ff1d86f5ff9fd3cff90fd88a729/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/himanshu/.android/build-cache/95f4b42ca488cc809886673150dda989769ce473/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.0"
+        sha1="9335f203759bfcda4b6ea729dddcf06c07150d3f">
+        <dex dex="/home/himanshu/Desktop/AndroidProjects/CardStack-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8c7fb670c233d8ebc6091aabf0c7cc679c0260d4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/himanshu/.android/build-cache/b9f0f5c7acef986695e4d4b3f0f74c116ef9b50b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.0"
+        sha1="a69067467c7e4d5c810ea19ee43cbfab00a292b4">
+        <dex dex="/home/himanshu/Desktop/AndroidProjects/CardStack-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_77011791c0881d3b30c3b2b484b0e0212ff98a0d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/himanshu/.android/build-cache/bb75e6152b6a7a96c4e27ea7a6931cac5dc3167b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.0"
+        sha1="b05ce31f5d87a7f16cdbdbc5e3a7cf2190bf0118">
+        <dex dex="/home/himanshu/Desktop/AndroidProjects/CardStack-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ca2a23aedc2da4f99cac2b1e029ee4ca873f87e6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/himanshu/Desktop/AndroidProjects/CardStack-master/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.0"
+        sha1="eee6e970bbf5b3ea7e8a2849dec319e33bbea284">
+        <dex dex="/home/himanshu/Desktop/AndroidProjects/CardStack-master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_aa774553c28e9c6e5d5199f9c858561b2c2d32c5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/himanshu/.android/build-cache/3e6927b8824827054ad98ab2f4b2bff6cd7d6a5f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.0"
+        sha1="e9b03dd36d3c106574e2cdeb8edd543bd5e51d0e">
+        <dex dex="/home/himanshu/Desktop/AndroidProjects/CardStack-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7f71eb9e4083b216931632dd7f5c8d49b38fbbfd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/himanshu/.android/build-cache/7162bfb17c29f9f6baace06d0176631075a03c8f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.0"
+        sha1="2e85417e7990657be8fe07d63fd5278d82eb960e">
+        <dex dex="/home/himanshu/Desktop/AndroidProjects/CardStack-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_cbbbf4c580e5b23951cf7418dc56d7ecefb3ee33/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/himanshu/.android/build-cache/8c546eda47ef2a600cb944768a98d76d83d1a746/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.0"
+        sha1="fad505737146925636e28753e26523c3a8a03e48">
+        <dex dex="/home/himanshu/Desktop/AndroidProjects/CardStack-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f09f983cc6fe9da6dbe4d9fc9f889b03ff6279dd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/himanshu/.android/build-cache/8b814e2aaf62d0567d914d95958b79e0acf3b6dd/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.0"
+        sha1="ba4c894fd0a3d36e8f06f4947ab639140e668088">
+        <dex dex="/home/himanshu/Desktop/AndroidProjects/CardStack-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7269e1cf829f06b8dcbd076efb1581fcfc469f49/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/himanshu/.android/build-cache/969b7a1dcb268f10ce7ba833d7b292f158fd5d05/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.0"
+        sha1="b9aff7eec7a0b091e460e44b8bb0bf64cadc0844">
+        <dex dex="/home/himanshu/Desktop/AndroidProjects/CardStack-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b4ba9e29b727306e9cb9a5bb744004814990ab22/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/himanshu/.android/build-cache/f19fe39017d10c6f29d797207584a9c5d47b731e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.0"
+        sha1="be31b531309a9196873ba4ac96ea9484ca0ecad6">
+        <dex dex="/home/himanshu/Desktop/AndroidProjects/CardStack-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_eb595e3ff129da261bb1b49764f2951e250f862a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/himanshu/.android/build-cache/0ca53f109d36c79f7056bb13b7da165ee07cb0f2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.0"
+        sha1="5b049b5525643f62ebe162013dae975c7e74dcc5">
+        <dex dex="/home/himanshu/Desktop/AndroidProjects/CardStack-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_befdba526d0228a3f4690be09d567fb214231365/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/himanshu/.android/build-cache/ea48ce12bb431852bf7742ec51f3af6af6ba2232/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.0"
+        sha1="f2b64f6a762f61a2379d6a79af03e2ee56eefe0b">
+        <dex dex="/home/himanshu/Desktop/AndroidProjects/CardStack-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f2f90916825e6ba841a76113f4ed9563fe6969f3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/himanshu/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.1.1/207a6efae6a3555e326de41f76bdadd9a239cbce/common-1.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.0"
+        sha1="207a6efae6a3555e326de41f76bdadd9a239cbce">
+        <dex dex="/home/himanshu/Desktop/AndroidProjects/CardStack-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/common-1.1.1_e0a09d201e7b3501c7b1633e7f757aeda1c7ad57/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/himanshu/.android/build-cache/bf050f1b389b01ac6bdc88f089b45c493a4abc13/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.0"
+        sha1="f77c6cfaee7ee7c8844d5340e47a38c3fdea7060">
+        <dex dex="/home/himanshu/Desktop/AndroidProjects/CardStack-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_77a0a86a9b68dfe39088ffd2d6d9ba31dd682569/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/himanshu/.android/build-cache/f13c64c79e5c51bb1c3d45ca1ee26171233d213f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.0"
+        sha1="376a25a3bdce5133262368e85d430aae5bb80c28">
+        <dex dex="/home/himanshu/Desktop/AndroidProjects/CardStack-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_686b711dd26e98ac79c0295efef76ea6c04d3df9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/himanshu/.android/build-cache/5e1518143c450c3100f87188f6bbdbc98dc3eed4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.0"
+        sha1="b99e6cdcb85894164e1a06145a5f6b78e3cb7270">
+        <dex dex="/home/himanshu/Desktop/AndroidProjects/CardStack-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bf920806e6f0f331f0c8b945f57192a98ad002c2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/himanshu/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.1.1/e55b70d1f5620db124b3e85a7f4bdc7bd48d9f95/common-1.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.0"
+        sha1="e55b70d1f5620db124b3e85a7f4bdc7bd48d9f95">
+        <dex dex="/home/himanshu/Desktop/AndroidProjects/CardStack-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/common-1.1.1_21cdc13197bb7a1bdb6d83ae783c655ae4524a6a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/himanshu/.android/build-cache/9d064a319328230093050dcf8d3232597a7378e3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.0"
+        sha1="70bf65523dc3db43f6c3749931976585a8f4dd20">
+        <dex dex="/home/himanshu/Desktop/AndroidProjects/CardStack-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1a3a1a4186b0dec39d838248f6cc885d7b20e774/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/himanshu/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/28.0.0/ed73f5337a002d1fd24339d5fb08c2c9d9ca60d8/support-annotations-28.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.0"
+        sha1="ed73f5337a002d1fd24339d5fb08c2c9d9ca60d8">
+        <dex dex="/home/himanshu/Desktop/AndroidProjects/CardStack-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-28.0.0_da4448ba8333710597ca46dd1096859f081cd4dc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/himanshu/.android/build-cache/6271059b315be65ce4c97be70b80d6a73e8f6d15/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.0"
+        sha1="8510837b7e70ee5f12cf2a20dd0a1b3d23a0cdeb">
+        <dex dex="/home/himanshu/Desktop/AndroidProjects/CardStack-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_43733bc17bf9a34796cdd17a3d600a262b2f41d4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/himanshu/.android/build-cache/00550098ed5d4b4cb684e64c125a6ae84827c99a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.0"
+        sha1="b1173d9f45ae18f2e0dc8ec42d15fa5b95c391d1">
+        <dex dex="/home/himanshu/Desktop/AndroidProjects/CardStack-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f8a702d69f497c37848ffa8ff58cf2c54f82f561/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/himanshu/.android/build-cache/ca03b2474e81e0a1fb813b95697792883a13c951/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.0"
+        sha1="234e706c7aea09f97738c7830d144d50d240079e">
+        <dex dex="/home/himanshu/Desktop/AndroidProjects/CardStack-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7ee87a156f847017e95e380195b1f5a391894dfe/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/himanshu/.android/build-cache/c76207acc28497745fd67a412b946d6aaac14924/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.0"
+        sha1="41b8c7e99024d4288d7dfc709bb72fdaa5fdc32f">
+        <dex dex="/home/himanshu/Desktop/AndroidProjects/CardStack-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2ce79cd302da98970aa0328e25d55bc37a3dc766/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/himanshu/.android/build-cache/9f2f4a6d29b4cbe29f7709e9b060a7298f88b039/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.0"
+        sha1="7b15ada2209f82b0249f331cb7ec70394dc2e828">
+        <dex dex="/home/himanshu/Desktop/AndroidProjects/CardStack-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d0a9ed9ab702b2fad3c20b2eb2b3d17bcb23d94f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/himanshu/Desktop/AndroidProjects/CardStack-master/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.0"
+        sha1="c323c36ecc68965c4cfb460f7721113d2b61ed03">
+        <dex dex="/home/himanshu/Desktop/AndroidProjects/CardStack-master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_1d82c4601e46cd66db580663b9647a3b4814e710/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/himanshu/.android/build-cache/dfad89b00e7e0cb05b45b867586cdb913de28cc4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.0"
+        sha1="49b8af59d5819c80792707bdda93a5c9a917e24c">
+        <dex dex="/home/himanshu/Desktop/AndroidProjects/CardStack-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_09c10e3ee24abbadb7a89dbb75ae95fe8f20dc64/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/himanshu/.android/build-cache/abd2f27334005f314ec14962d338775942eaa868/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.0"
+        sha1="19e63f5c3afd0a4379bfb830816bb8a9661aba75">
+        <dex dex="/home/himanshu/Desktop/AndroidProjects/CardStack-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6e21087dae44c667c4b73afd2ce6d573a47e20d5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/himanshu/.android/build-cache/dff87699a7bc61f71099567e0795a1df351a6f1c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.0"
+        sha1="a6d4c3181151ffbcd67897e94c688f6c200c5bec">
+        <dex dex="/home/himanshu/Desktop/AndroidProjects/CardStack-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_33ff2d5473af48070eacdfadcdb62d5a63434c86/classes.dex" />
+    </item>
+
+</items>
